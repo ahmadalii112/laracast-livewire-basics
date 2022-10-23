@@ -19,3 +19,4 @@ Route::get('/', function () {
 
 
 Route::view('/contact', 'contact');
+Route::view('/dropdown', 'dropdown');
